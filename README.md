@@ -1,16 +1,27 @@
-# uts
+UTS MOBILE
+FEBBY MATHELDA SILVYA MOOY-2241720067
 
-A new Flutter project.
+Layout Aplikasi Link Aja
 
-## Getting Started
+1. Splash Screen
 
-This project is a starting point for a Flutter application.
+![alt text](image.png)
 
-A few resources to get you started if this is your first Flutter project:
+2. Home
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![alt text](image-2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+3. History 
+
+Pending
+
+![alt text](image-1.png)
+
+Done
+
+![alt text](image-3.png)
+
+4. Akun
+
+![alt text](image-4.png)
